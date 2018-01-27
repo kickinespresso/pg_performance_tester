@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'pg_performance_tester'
+
+test_runner = PgPerformanceTester::Runner.new
+test_runner.run
