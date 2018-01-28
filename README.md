@@ -39,6 +39,10 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 - 64 gigs of ECC memory
 - 2x Intel XEON E5-2620 @ 2.00 Ghz (24 threads (6 Cores, 12 Threads per processor))
 
+# Postgres Performance Tuning Generator
+
+- [PgTune](http://pgtune.leopard.in.ua/)
+
 # Postgres Tuning Configs
 
     listen_addresses = 'localhost'          
@@ -121,3 +125,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Code of Conduct
 
 Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for details
+
+
+## Resources 
+
+- [PG Performance Test Examples](https://wiki.postgresql.org/wiki/Pgbenchtesting)
